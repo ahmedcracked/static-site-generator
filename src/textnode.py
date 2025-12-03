@@ -16,12 +16,12 @@ class TextNode:
         self.text_type = text_type
         self.url = url
 
-    def __eq__(self, value):
+    def __eq__(self, other):
         return (
-            isinstance(value, TextNode)
-            and self.text == value.text
-            and self.text_type == value.text_type
-            and self.url == value.url
+            isinstance(other, TextNode)
+            and self.text == other.text
+            and self.text_type == other.text_type
+            and self.url == other.url
         )
 
     def __repr__(self):
