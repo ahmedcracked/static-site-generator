@@ -1,46 +1,16 @@
-# Tolkien Fan Club
+# Hi!
 
-![JRR Tolkien sitting](/images/tolkien.png)
+I'm Ahmed, this page represents my latest coding project, the **static site generator** is a software that enables you to write your own static sites/blogs in Markdown instead of HTML.
+Markdown is far more superior for normal people (not developers), You might be familiar with Markdown as it's used in a lot of places, but you might not know HTML yet.
 
-Here's the deal, **I like Tolkien**.
+## Demo
 
-> "I am in fact a Hobbit in all but size."
->
-> -- J.R.R. Tolkien
+You can see a bigger site that has different blogs & posts that is generated with the generator [right here](/demo)
 
-## Blog posts
+## Technologies used in the project
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
-
-## Reasons I like Tolkien
-
-- You can spend years studying the legendarium and still not understand its depths
-- It can be enjoyed by children and adults alike
-- Disney _didn't ruin it_ (okay, but Amazon might have)
-- It created an entirely new genre of fantasy
-
-## My favorite characters (in order)
-
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
-
-Here's what `elflang` looks like (the perfect coding language):
-
-```
-func main(){
-    fmt.Println("Aiya, Ambar!")
-}
-```
+- Python
+- CSS & HTML
+- Git & GitHub
 
 Want to get in touch? [Contact me here](/contact).
-
-This site was generated with a custom-built [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) from the course on [Boot.dev](https://www.boot.dev).
