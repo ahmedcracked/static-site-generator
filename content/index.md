@@ -1,6 +1,6 @@
 # Hi!
 
-I'm Ahmed Esmail, this page represents my latest Python coding project: a "static site generator" is a program where you can write your static site/blog in Markdown instead of HTML.
+I'm Ahmed Esmail, this page represents my latest Python coding project: the "static site generator" is a program where you can write your static site/blog in Markdown instead of HTML.
 
 The program converts the content written in Markdown to HTML files at the end so that it can serve as a functional webpage.
 
