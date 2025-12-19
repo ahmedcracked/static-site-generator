@@ -1,5 +1,6 @@
-# Contact me
+# Contact
 
 [< Back Home](/)
 
-`hey-ahmed@outlook.com`
+This is my contact email. Feel free to reach out anytime!
+[hey-ahmed@outlook.com](mailto:hey-ahmed@outlook.com)

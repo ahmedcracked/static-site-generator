@@ -1,16 +1,17 @@
 # Hi!
 
-I'm Ahmed, this page represents my latest coding project, the **static site generator** is a software that enables you to write your own static sites/blogs in Markdown instead of HTML.
-Markdown is far more superior for normal people (not developers), You might be familiar with Markdown as it's used in a lot of places, but you might not know HTML yet.
+I'm Ahmed Esmail, this page represents my latest Python coding project: a "static site generator" is a program where you can write your static site/blog in Markdown instead of HTML.
+The program converts the content written in Markdown to HTML files at the end so that it can serve as a functional webpage.
+It's useful because Markdown format is much easier to write. However, HTML is more verbose and developer-oriented. Markdown is more user-friendly and used across many different apps like Discord & WhatsApp.
 
 ## Demo
 
-You can see a bigger site that has different blogs & posts that is generated with the generator [right here](/demo)
+You can see a bigger webpage that has different blogs generated using the project [right here](/demo).
 
-## Technologies used in the project
+## Technologies Used
 
 - Python
-- CSS & HTML
+- HTML & CSS
 - Git & GitHub
 
 Want to get in touch? [Contact me here](/contact).
