@@ -1,6 +1,6 @@
 # Why Glorfindel is More Impressive than Legolas
 
-[< Back Home](/)
+[< Back Home](/demo)
 
 ![Glorfindel image](/images/glorfindel.png)
 
@@ -61,7 +61,7 @@ As we traverse the storied paths of Middle-earth, it becomes clear that while Le
 Thus, in the grand council of Middle-earth's champions, let us recognize Glorfindel as a paragon whose legacy remains untarnished—a testament to the timeless grandeur of Tolkien's creation.
 # Why Glorfindel is More Impressive than Legolas
 
-[< Back Home](/)
+[< Back Home](/demo)
 
 ![Glorfindel image](/images/glorfindel.png)
 
